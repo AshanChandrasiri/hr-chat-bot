@@ -4,3 +4,5 @@
 *.lock
 *.pyc
 __pycache__
+*vectorstore*
+*.log
