@@ -1,0 +1,5 @@
+.idea
+.venv
+*.lock
+*.pyc
+__pycache__
